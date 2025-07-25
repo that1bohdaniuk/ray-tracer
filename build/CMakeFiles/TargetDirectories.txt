@@ -1,0 +1,3 @@
+/Users/baza/CLionProjects/ray-tracer/build/CMakeFiles/ray_tracer.dir
+/Users/baza/CLionProjects/ray-tracer/build/CMakeFiles/edit_cache.dir
+/Users/baza/CLionProjects/ray-tracer/build/CMakeFiles/rebuild_cache.dir
